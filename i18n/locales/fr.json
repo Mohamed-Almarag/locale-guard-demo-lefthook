@@ -16,5 +16,12 @@
     "rating": "{rating} sur 5 d'après {count} avis",
     "book": "Réserver",
     "back": "Retour à @:nav.home"
+  },
+  "details": {
+    "title": "À propos de ce voyage",
+    "included": "Ce qui est inclus",
+    "breakfast": "Petit-déjeuner chaque matin",
+    "transfer": "Transfert depuis l'aéroport",
+    "cancel": "Annulation gratuite jusqu'au {date}"
   }
 }

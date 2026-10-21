@@ -15,5 +15,12 @@
     "rating": "{rating} out of 5 from {count} reviews",
     "book": "Book now",
     "back": "Back to @:nav.home"
+  },
+  "details": {
+    "title": "About this trip",
+    "included": "What's included",
+    "breakfast": "Breakfast every morning",
+    "transfer": "Airport transfer",
+    "cancel": "Free cancellation until {date}"
   }
 }

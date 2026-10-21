@@ -14,5 +14,12 @@
     "nights": "keine Nächte | eine Nacht | {count} Nächte",
     "book": "Jetzt buchen",
     "back": "Zurück zu @:nav.home"
+  },
+  "details": {
+    "title": "Über diese Reise",
+    "included": "Inklusive",
+    "breakfast": "Frühstück jeden Morgen",
+    "transfer": "Flughafentransfer",
+    "cancel": "Kostenlose Stornierung bis {date}"
   }
 }
