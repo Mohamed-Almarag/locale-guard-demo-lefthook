@@ -1,0 +1,10 @@
+pre-commit:
+  jobs:
+    - name: translations
+      glob: 'i18n/locales/*.json'
+      run: npx locale-guard-cli --staged
+
+pre-push:
+  jobs:
+    - name: translations
+      run: npx locale-guard-cli --base origin/main

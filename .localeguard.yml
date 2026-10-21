@@ -1,0 +1,2 @@
+files: i18n/locales/{locale}.json
+format: '@nuxtjs/i18n'
