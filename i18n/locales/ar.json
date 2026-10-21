@@ -15,5 +15,12 @@
     "rating": "{rating} من 5 بناءً على {count} تقييم",
     "book": "احجز الآن",
     "back": "العودة إلى @:nav.home"
+  },
+  "details": {
+    "title": "عن هذه الرحلة",
+    "included": "ماذا يشمل",
+    "breakfast": "إفطار كل صباح",
+    "transfer": "توصيل من وإلى المطار",
+    "cancel": "إلغاء مجاني حتى {date}"
   }
 }
