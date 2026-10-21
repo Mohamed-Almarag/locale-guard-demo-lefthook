@@ -15,5 +15,18 @@
     "rating": "{rating} من 5 بناءً على {count} تقييم",
     "book": "احجز الآن",
     "back": "العودة إلى @:nav.home"
+  },
+  "checkout": {
+    "title": "تأكيد الحجز",
+    "guests": "بدون ضيوف | ضيف واحد | {count} ضيوف",
+    "dates": "من {start} إلى {end}",
+    "total": "الإجمالي: {amount}",
+    "coupon": {
+      "label": "كود الخصم",
+      "apply": "تطبيق"
+    },
+    "terms": "أوافق على @:checkout.polcy",
+    "policy": "سياسة الإلغاء",
+    "pay": "ادفع {amout}"
   }
 }

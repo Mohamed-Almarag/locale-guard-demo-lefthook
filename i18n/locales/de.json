@@ -14,5 +14,19 @@
     "nights": "keine Nächte | eine Nacht | {count} Nächte",
     "book": "Jetzt buchen",
     "back": "Zurück zu @:nav.home"
+  },
+  "checkout": {
+    "title": "Buchung bestätigen",
+    "guests": "keine Gäste | ein Gast | {count} Gäste",
+    "dates": "{start} bis {ende}",
+    "total": "Gesamt: {amount}",
+    "coupon": {
+      "label": "Gutscheincode",
+      "apply": "Einlösen"
+    },
+    "terms": "Ich akzeptiere die @:checkout.policy",
+    "policy": "Stornobedingungen",
+    "pay": "{amount} bezahlen",
+    "paypal": "Mit PayPal bezahlen"
   }
 }

@@ -15,5 +15,19 @@
     "rating": "{rating} out of 5 from {count} reviews",
     "book": "Book now",
     "back": "Back to @:nav.home"
+  },
+  "checkout": {
+    "title": "Confirm your booking",
+    "guests": "no guests | one guest | {count} guests",
+    "dates": "{start} to {end}",
+    "total": "Total: {amount}",
+    "coupon": {
+      "label": "Coupon code",
+      "apply": "Apply",
+      "invalid": "Coupon \"{code}\" is not valid"
+    },
+    "terms": "I agree to the @:checkout.policy",
+    "policy": "cancellation policy",
+    "pay": "Pay {amount}"
   }
 }

@@ -16,5 +16,19 @@
     "rating": "{rating} sur 5 d'après {count} avis",
     "book": "Réserver",
     "back": "Retour à @:nav.home"
+  },
+  "checkout": {
+    "title": "Confirm your booking",
+    "guests": "aucun voyageur | un voyageur | {count voyageurs",
+    "dates": "Du {start} au {end}",
+    "total": "",
+    "coupon": {
+      "label": "Code promo",
+      "apply": "Appliquer",
+      "invalid": "Le code \"{code}\" n'est pas valide"
+    },
+    "terms": "J'accepte la @:checkout.policy",
+    "policy": "politique d'annulation",
+    "pay": "Payer {amount}"
   }
 }
