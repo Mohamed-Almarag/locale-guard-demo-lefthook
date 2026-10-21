@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Home",
+    "trips": "Trips"
+  },
+  "home": {
+    "title": "Find your next trip",
+    "subtitle": "{count} destinations, one search away",
+    "search": "Search trips"
+  },
+  "trips": {
+    "title": "Popular trips",
+    "from": "From {price} per night",
+    "nights": "no nights | one night | {count} nights",
+    "rating": "{rating} out of 5 from {count} reviews",
+    "book": "Book now",
+    "back": "Back to @:nav.home"
+  }
+}

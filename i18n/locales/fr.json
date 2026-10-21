@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "trips": "Voyages"
+  },
+  "home": {
+    "title": "Trouvez votre prochain voyage",
+    "subtitle": "{count} destinations à portée de recherche",
+    "search": "Rechercher un voyage",
+    "banner": "Offres d'été"
+  },
+  "trips": {
+    "title": "Voyages populaires",
+    "from": "À partir de {price} la nuit",
+    "nights": "aucune nuit | une nuit | {count} nuits",
+    "rating": "{rating} sur 5 d'après {count} avis",
+    "book": "Réserver",
+    "back": "Retour à @:nav.home"
+  }
+}

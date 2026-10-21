@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "trips": "Reisen"
+  },
+  "home": {
+    "title": "Finde deine nächste Reise",
+    "subtitle": "{count} Reiseziele, nur eine Suche entfernt",
+    "search": "Reisen suchen"
+  },
+  "trips": {
+    "title": "Beliebte Reisen",
+    "from": "Ab {price} pro Nacht",
+    "nights": "keine Nächte | eine Nacht | {count} Nächte",
+    "book": "Jetzt buchen",
+    "back": "Zurück zu @:nav.home"
+  }
+}
